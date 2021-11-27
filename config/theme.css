@@ -1,0 +1,13 @@
+:root {
+  --primary: #000000;
+  --primary-text: #ffffff;
+  --secondary: #00000000;
+  --secondary-text: #ffffff;
+  --accent: #66606069;
+  --accent-text: #000000;
+  --font-family: pixellari;
+}
+
+*{
+  font-family: roboto;
+}

@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x08B45bF23ce32882f6b1Bf7Aa9930327bB6f1dbe",
+  "SCAN_LINK": "https://polygonscan.com/address/0x08b45bf23ce32882f6b1bf7aa9930327bb6f1dbe",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Spartan Punk",
+  "SYMBOL": "SPQR",
+  "MAX_SUPPLY": 3300,
+  "WEI_COST": 20000000000000000000,
+  "DISPLAY_COST": 20,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/spartan-punks",
+  "SHOW_BACKGROUND": true
+}
